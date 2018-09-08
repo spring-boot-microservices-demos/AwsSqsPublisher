@@ -1,0 +1,10 @@
+server:
+  port: 8050
+  
+cloud:
+  aws:
+    region:
+      static: us-east-1
+      auto: false
+    sqs:
+      url: 
